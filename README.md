@@ -1,4 +1,5 @@
-##operators:-
+## operators-
+
 operator are special symbol used to perform operation on operand such as arithmetic operation ,logical operation and comparison of operators.
 ## Types of operators-
 
